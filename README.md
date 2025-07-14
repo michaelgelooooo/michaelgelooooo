@@ -108,9 +108,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mikeygelooooo/count.svg?" width="500"/>
-</div>
-
-###
