@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">🚀 Goals for 2025</h2>
+<h2 align="left">🚀 Goals for 2026</h2>
 
 ###
 
@@ -41,7 +41,7 @@
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
       width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="mailto:mikeygelo7@gmail.com" target="_blank">
+  <a href="mailto:michaelangelo.ochengco@gmail.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
       width="52" height="40" alt="gmail logo" />
@@ -58,13 +58,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"
     alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
@@ -73,23 +73,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
     alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"
+    alt="postgresql logo" />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"
+    alt="sqlite logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"
     alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"
-    alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"
-    alt="vscode logo" />
 </div>
 
 ###
@@ -98,13 +99,13 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikeygelooooo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1" width="500" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelgelooooo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1" width="500" alt="stats graph" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeygelooooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=material-palenight&hide_border=false&order=2" width="500" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelgelooooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=material-palenight&hide_border=false&order=2" width="500" alt="languages graph" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=mikeygelooooo&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5&order=3" width="500" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=michaelgelooooo&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5&order=3" width="500" alt="streak graph" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikeygelooooo&radius=15&theme=material-palenight&area=true&order=5&hide_title=false" width="500" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michaelgelooooo&radius=15&theme=material-palenight&area=true&order=5&hide_title=false" width="500" alt="activity-graph graph" />
 </div>
 
 ###
